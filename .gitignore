@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Large data and results folders
+data/
+results_mnist/
+
+# macOS specific files
+.DS_Store
